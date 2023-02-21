@@ -114,16 +114,16 @@ li {
 
 
 #logo-container {
-    width: 15%;
+    width: 14%;
     float: left;
-    height: 200px;
+    height: 150px;
     display: table;
 }
 
 #logo-container2 {
     width: 20%;
     float: right;
-    height: 200px;
+    height: 150px;
     display: table;
 }
 
@@ -138,8 +138,8 @@ li {
     text-align: center;
     vertical-align: middle;
     display: table;
-    height: 200px;
-    padding-top: 18px;
+    height: 150px;
+    padding-top: 1px;
     box-sizing: border-box;
 }
 
@@ -150,7 +150,7 @@ li {
 
 #title-container .supertitle {
     margin: 0;
-    font-weight: 400;
+    font-weight: 00;
     font-size: 20px;
 }
 
@@ -191,10 +191,12 @@ li {
 }
 
 #navigation li {
+    justify-content: space-evenly;
 	list-style-type: none;
 	display: inline-block;
     box-sizing: border-box;
-    padding: 10px 16px;
+    margin: 0 auto;
+    padding: 0px 16px;
 }
 
 #navigation a:hover {
