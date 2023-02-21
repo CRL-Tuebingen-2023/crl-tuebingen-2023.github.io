@@ -114,8 +114,15 @@ li {
 
 
 #logo-container {
-    width: 35%;
+    width: 15%;
     float: left;
+    height: 200px;
+    display: table;
+}
+
+#logo-container2 {
+    width: 20%;
+    float: right;
     height: 200px;
     display: table;
 }
@@ -126,9 +133,9 @@ li {
 }
 
 #title-container {
-    width: 60%;
-    float: right;
-    text-align: left;
+    width: 65%;
+    float: center;
+    text-align: center;
     vertical-align: middle;
     display: table;
     height: 200px;
