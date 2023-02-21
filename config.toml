@@ -7,7 +7,7 @@ theme = 'ananke'
 [params]
   supertitle = "Workshop on"
   title = "Causal Representation Learning"
-  subtitle = "April 15-17 2023 @ MPI"
+  subtitle = "April 15-17 2023 @ MPI-IS Tuebingen"
   author = "Jonas Wildberger"
   description = "Workshop on Causal Representation Learning 2023 in Tuebingen"
   keywords = ["workshop", "causal representation learning"]
@@ -19,6 +19,14 @@ theme = 'ananke'
 
 # Main menu
 [[menu.main]]
-    name = "Call for Papers"
-    url  = "/call-for-papers"
+    name = "About"
+    url  = "/about"
     weight = 1
+[[menu.main]]
+    name = "Schedule"
+    url  = "/schedulr"
+    weight = 2
+[[menu.main]]
+    name = "Location"
+    url  = "/location"
+    weight = 3
