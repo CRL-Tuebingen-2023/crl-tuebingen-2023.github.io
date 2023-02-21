@@ -1,4 +1,24 @@
 baseURL = 'https://crl-tuebingen-2023.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+canonifyurls = true
+languagecode = "en"
 theme = 'ananke'
+
+# Params that are used in <head>
+[params]
+  supertitle = "Workshop on"
+  title = "Causal Representation Learning"
+  subtitle = "April 15-17 2023 @ MPI"
+  author = "Jonas Wildberger"
+  description = "Workshop on Causal Representation Learning 2023 in Tuebingen"
+  keywords = ["workshop", "causal representation learning"]
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 1
