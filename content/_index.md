@@ -8,7 +8,14 @@ The Tübingen Causality group is hosting a **Workshop on Causal Representation L
 
 
 ## About the workshop
-TODO
+This workshop will provide a platform for researchers interested in Causal Represen-tation Learning for sharing and discussing the latest developments in the field. 
+The program will feature talks, poster sessions and panel discussions on topics such as:
 
 
-Contact us at <crl.tuebingen.2023@gmail.com>
+- Classical Causality
+- Multi-level Causal Systems
+- Identifiable Representation Learning & Nonlinear ICA
+- Invariant/Multi-environment Causal Learning  
+
+
+Contact us at <crl.tuebingen.2023@gmail.com> 

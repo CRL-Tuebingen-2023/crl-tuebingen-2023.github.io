@@ -9,8 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Workshop on"
   title = "Causal Representation Learning"
-  subtitle = "April 15-17 2023 @ MPI-IS Tuebingen"
-  author = "Jonas Wildberger"
+  subtitle = "April 17-19 2023 @ MPI-IS Tuebingen"
   description = "Workshop on Causal Representation Learning 2023 in Tuebingen"
   keywords = ["workshop", "causal representation learning"]
 
@@ -22,11 +21,11 @@ disableKinds = ["taxonomyTerm"]
 # Main menu
 [[menu.main]]
     name = "About"
-    url  = "/about"
+    url  = "/"
     weight = 1
 [[menu.main]]
     name = "Schedule"
-    url  = "/schedulr"
+    url  = "/schedule"
     weight = 2
 [[menu.main]]
     name = "Location"
