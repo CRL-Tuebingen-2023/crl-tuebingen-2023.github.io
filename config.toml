@@ -28,6 +28,10 @@ disableKinds = ["taxonomyTerm"]
     url  = "/schedule"
     weight = 2
 [[menu.main]]
+    name = "Organisers"
+    url  = "/organisers"
+    weight = 3
+[[menu.main]]
     name = "Location"
     url  = "/location"
-    weight = 3
+    weight = 4
