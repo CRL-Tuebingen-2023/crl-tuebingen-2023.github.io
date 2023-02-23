@@ -9,13 +9,13 @@ The Tübingen Causality group is hosting a **Workshop on Causal Representation L
 
 ## About the workshop
 This workshop will provide a platform for researchers interested in Causal Represen-tation Learning for sharing and discussing the latest developments in the field. 
-The program will feature talks, poster sessions and panel discussions on topics such as:
+The program will feature talks, poster sessions and panel discussions on topics including:
 
-
-- Classical Causality
-- Multi-level Causal Systems
-- Identifiable Representation Learning & Nonlinear ICA
-- Invariant/Multi-environment Causal Learning  
+- Learning interventional representations, causal digital twins & structured (causal) world models
+- Micro vs. macro/coarse-grained/multi-level causal systems
+- Causal discovery and learning (latent) causal bayesian networks and structural causal models
+- Identifiable representation learning & nonlinear ICA
+- Invariant/multi-environment causal learning  
 
 
 Contact us at <crl.tuebingen.2023@gmail.com> 
