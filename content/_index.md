@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-The Tübingen Causality group is hosting a **Workshop on Causal Representation Learning (CRL 2023)** at the Max Planck Institute for Intelligent Systems in Tübingen from **April 17th to 19th, 2023,** after the CLeaR conference.
+The Tübingen Causality group is hosting a **Workshop on Causal Representation Learning (CRL 2023)** at the Max Planck Institute for Intelligent Systems in Tübingen from **April 17th to 19th, 2023,** after the CLeaR conference. There is no registration fee.
 
 
 ## About the workshop
