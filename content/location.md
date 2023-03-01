@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 # Location
-You can find us at the following address, located at a walking distance of 10 min from the CLeaR conference venue:
+You can find us at the following address, located at a walking distance of 5 min from the CLeaR conference venue:
 
 Max Planck Institute for Intelligent Systems   
 Max-Planck-Ring 4   
