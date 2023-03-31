@@ -34,3 +34,7 @@ title: "Invited Speakers"
         <td><a href="https://slachapelle.github.io">Sébastien Lachapelle</a></td>
     </div>
 </div>
+
+<div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
+    <em>More speakers TBA.</em>
+</div>

@@ -122,8 +122,8 @@
     </tr>
     <tr class="talk">
         <td>15:00 - 16:00</td>
-        <td>TBA</td>
-        <td>In-person</td>
+        <td>Yoshua Bengio - GFlowNets for Amortized Probabilistic Inference and Bayesian Causal Discovery</td>
+        <td>Remote</td>
     </tr>
     <tr class="break">
         <td>16:00 - 16:30</td>
@@ -185,8 +185,8 @@
     </tr>
     <tr class="talk">
         <td>15:00 - 16:00</td>
-        <td>Yoshua Bengio - GFlowNets for Amortized Probabilistic Inference and Bayesian Causal Discovery</td>
-        <td>Remote</td>
+        <td>TBA</td>
+        <td>In-person</td>
     </tr>
     <tr class="break">
         <td>16:00 - 16:30</td>
