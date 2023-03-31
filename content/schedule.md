@@ -9,7 +9,7 @@
     <span class="talk">Talk</span> · 
     <span class="poster">Poster</span> · 
     <span class="panel">Panel</span>  ·
-    <span class="break">break</span>
+    <span class="break">Break</span>
 </div>
 <table class="schedule">
     <tr>
