@@ -35,6 +35,6 @@ title: "Invited Speakers"
     </div>
 </div>
 
-<div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
+<div style="width: 100%; font-size: larger; text-align: center; margin-top: 18px;">
     <em>More speakers TBA.</em>
 </div>
