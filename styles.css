@@ -262,16 +262,20 @@ li {
     border-bottom: 2px solid black;
 }
 
-.invited {
+.talk {
     background-color: #FFE599;
 }
 
-.contributed {
+.poster {
     background-color: #A4C2F4;
 }
 
+.panel {
+    background-color: #DD7E6B;
+}
+
 .break {
-    background-color: #B6D7A8;
+    background-color: #B6D7A7;
 }
 
 
