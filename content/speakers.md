@@ -33,6 +33,30 @@ title: "Invited Speakers"
         <td><img src="/sebastien.jpg"></td>
         <td><a href="https://slachapelle.github.io">Sébastien Lachapelle</a></td>
     </div>
+    <div class="person">
+        <td><img src="/kartik.jpg"></td>
+        <td><a href="https://ahujak.github.io">Kartik Ahuja</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/nils.jpg"></td>
+        <td><a href="https://nilssturma.github.io">Nils Sturma</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/karthika.jpg"></td>
+        <td><a href="http://www.karthikamohan.com">Karthika Mohan</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/jun.jpg"></td>
+        <td><a href="https://junhyung-park.github.io">Junhyung Park</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/michel.jpg"></td>
+        <td><a href="https://michelbesserve.com">Michel Besserve</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/siyuan.jpg"></td>
+        <td><a href="https://siyuanguo.com">Siyuan Guo</a></td>
+    </div>
 </div>
 
 <div style="width: 100%; font-size: larger; text-align: center; margin-top: 18px;">
