@@ -54,7 +54,7 @@
     </tr>
     <tr class="talk">
         <td>11:40 - 12:00</td>
-        <td>TBA</td>
+        <td>Armin Kekić: TBA</td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
@@ -88,7 +88,7 @@
         <td>-</td>
     </tr>
     <tr class="break">
-        <td>15:30 - 16:00</td>
+        <td>15:00 - 15:30</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
@@ -167,7 +167,7 @@
     </tr>
     <tr class="talk">
         <td>11:40 - 12:00</td>
-        <td><b>Felix Leeb</b>: TBA</td>
+        <td><b>Felix Leeb</b>: "Structure by Architecture: Structuring Representations beyond Disentanglement"</td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
@@ -201,7 +201,7 @@
         <td>-</td>
     </tr>
     <tr class="break">
-        <td>15:30 - 16:00</td>
+        <td>15:00 - 15:30</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
@@ -254,7 +254,7 @@
         <td>In-person</td>
     </tr>
     <tr class="panel">
-        <td>12:00 - 12:30</td>
+        <td>12:20 - 12:30</td>
         <td>Discussion</td>
         <td>-</td>
     </tr>
