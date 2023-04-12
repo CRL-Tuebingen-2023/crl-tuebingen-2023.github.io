@@ -8,7 +8,7 @@
     Legend:
     <span class="talk">Talk</span> · 
     <span class="poster">Poster</span> · 
-    <span class="panel">Panel</span>  ·
+    <span class="panel">Discussion</span>  ·
     <span class="break">Break</span>
 </div>
 <table class="schedule">
@@ -18,59 +18,109 @@
         <th style="width:20%">Format</th>
     </tr>
     <tr>
-        <td>09:00 - 09:30</td>
-        <td>Introductory remarks</td>
+        <td>09:30 - 09:40</td>
+        <td>Introductory remarks by the organizing team</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>09:30 - 10:10</td>
-        <td>TBA</td>
+        <td>09:40 - 10:00</td>
+        <td><b>Bernhard Schölkopf</b>: "What is Causal Representation Learning?"</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>10:10 - 10:50</td>
-        <td>TBA</td>
+        <td>10:00 - 10:20</td>
+        <td><b>Xinwei Shen</b>: “Robust Learning: a Causal Representation Perspective”</td>
         <td>In-person</td>
+    </tr>
+    <tr class="panel">
+        <td>10:20 - 10:30</td>
+        <td>Discussion</td>
+        <td>-</td>
     </tr>
     <tr class="break">
-        <td>10:50 - 11:10</td>
+        <td>10:30 - 11:00</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>11:10 - 11:50</td>
-        <td>TBA</td>
+        <td>11:00 - 11:20</td>
+        <td><b>Junhyung Park</b>: “A Measure-theoretic Axiomatization of Causality”</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>11:50 - 12:30</td>
+        <td>11:20 - 11:40</td>
+        <td><b>Adele H. Ribeiro</b>: “Effect Identification in Cluster Causal Diagrams”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="talk">
+        <td>11:40 - 12:00</td>
         <td>TBA</td>
         <td>In-person</td>
     </tr>
+    <tr class="panel">
+        <td>12:00 - 12:30</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
     <tr class="break">
-        <td>12:30 - 14:00</td>
+        <td>12:30 - 13:30</td>
         <td>Lunch break</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>14:00 - 15:00</td>
-        <td>TBA</td>
+        <td>13:30 - 13:50</td>
+        <td><b>Hiroshi Morioka</b>: “Connectivity-Contrastive Learning: Combining Causal Discovery and Representation Learning for Multimodal Data”</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>15:00 - 16:00</td>
-        <td>TBA</td>
+        <td>13:50 - 14:10</td>
+        <td><b>Michel Besserve</b>: "Inductive Biases for Unsupervised Causal Representation Learning"</td>
         <td>In-person</td>
     </tr>
+    <tr class="talk">
+        <td>14:10 - 14:30</td>
+        <td><b>Sébastien Lachapelle</b>: “Synergies between Disentanglement and Sparsity: Generalization and Identifiability in Multi-Task Learning”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="panel">
+        <td>14:30 - 15:00</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
     <tr class="break">
-        <td>16:00 - 16:30</td>
+        <td>15:30 - 16:00</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
+    <tr class="talk">
+        <td>15:30 - 15:50</td>
+        <td><b>Chris Williams</b>: “Structured Generative Models for Scene Understanding”</td>
+        <td>Remote</td>
+    </tr>
+    <tr class="panel">
+        <td>15:50 - 16:00</td>
+        <td>Discussion & Wrap-up</td>
+        <td>-</td>
+    </tr>
     <tr class="poster">
-        <td>16:30 - 18:00</td>
+        <td>16:00 - 18:00</td>
         <td>Poster Session</td>
         <td>In-person</td>
+    </tr>
+    <tr class="break">
+        <td>19:45 - 20:00</td>
+        <td>Welcome remarks</td>
+        <td>-</td>
+    </tr>
+    <tr class="break">
+        <td>20:00 - 22:00</td>
+        <td>Dinner</td>
+        <td>-</td>
+    </tr>
+    <tr class="break">
+        <td>22:00 -</td>
+        <td>Closing remarks</td>
+        <td>-</td>
     </tr>
 </table>
 
@@ -86,54 +136,99 @@
         <th style="width:20%">Format</th>
     </tr>
     <tr class="talk">
-        <td>09:30 - 10:10</td>
-        <td>TBA</td>
+        <td>09:30 - 09:50</td>
+        <td><b>Karthika Mohan</b>: “Causal Inference with Non-IID Data under Model Uncertainty”</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>10:10 - 10:50</td>
-        <td>TBA</td>
+        <td>09:50 - 10:10</td>
+        <td><b>Siyuan Guo</b>: “Causal de Finetti”</td>
         <td>In-person</td>
     </tr>
+    <tr class="panel">
+        <td>10:10 - 10:30</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
     <tr class="break">
-        <td>10:50 - 11:10</td>
+        <td>10:30 - 11:00</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>11:10 - 11:50</td>
-        <td>TBA</td>
+        <td>11:00 - 11:20</td>
+        <td><b>Marco Fumero</b>: TBA</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>11:50 - 12:30</td>
-        <td>TBA</td>
+        <td>11:20 - 11:40</td>
+        <td><b>Weiyang Liu</b>: TBA</td>
         <td>In-person</td>
     </tr>
+    <tr class="talk">
+        <td>11:40 - 12:00</td>
+        <td><b>Felix Leeb</b>: TBA</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="panel">
+        <td>12:00 - 12:30</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
     <tr class="break">
-        <td>12:30 - 14:00</td>
+        <td>12:30 - 13:30</td>
         <td>Lunch break</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>14:00 - 15:00</td>
-        <td>TBA</td>
+        <td>13:30 - 13:50</td>
+        <td><b>Simon Buchholz</b>: TBA</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>15:00 - 16:00</td>
-        <td>Yoshua Bengio - GFlowNets for Amortized Probabilistic Inference and Bayesian Causal Discovery</td>
-        <td>Remote</td>
+        <td>13:50 - 14:10</td>
+        <td><b>Nils Sturma</b>: “Unpaired Multi-Domain Causal Representation Learning”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="talk">
+        <td>14:10 - 14:30</td>
+        <td><b>Kartik Ahuja</b>: “Interventional Causal Representation Learning”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="panel">
+        <td>14:30 - 15:00</td>
+        <td>Discussion</td>
+        <td>-</td>
     </tr>
     <tr class="break">
-        <td>16:00 - 16:30</td>
+        <td>15:30 - 16:00</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
+    <tr class="talk">
+        <td>15:30 - 15:50</td>
+        <td><b>Zihao Wang</b>: “Concept Algebra for Text-Controlled Vision Models”</td>
+        <td>Remote</td>
+    </tr>
+    <tr class="talk">
+        <td>15:50 - 16:10</td>
+        <td><b>Yoshua Bengio</b>: “GFlowNets for Amortized Probabilistic Inference and Bayesian Causal Discovery”</td>
+        <td>Remote</td>
+    </tr>
     <tr class="panel">
-        <td>16:30 - 18:00</td>
-        <td>Panel Discussion</td>
+        <td>16:10 - 16:30</td>
+        <td>Discussion & Wrap-up</td>
+        <td>-</td>
+    </tr>
+    <tr class="poster">
+        <td>16:30 - 18:30</td>
+        <td>Poster Session</td>
         <td>In-person</td>
+    </tr>
+    <tr class="break">
+        <td>18:30 - </td>
+        <td>Reception & Networking</td>
+        <td>-</td>
     </tr>
 </table>
 
@@ -148,54 +243,64 @@
         <th>Program</th>
         <th style="width:20%">Format</th>
     </tr>
-    <tr class="talk">
-        <td>09:30 - 10:10</td>
-        <td>TBA</td>
-        <td>In-person</td>
-    </tr>
-    <tr class="talk">
-        <td>10:10 - 10:50</td>
-        <td>TBA</td>
-        <td>In-person</td>
-    </tr>
     <tr class="break">
-        <td>10:50 - 11:10</td>
-        <td>Coffee break</td>
+        <td>10:00 - 12:00</td>
+        <td>Hike</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>11:10 - 11:50</td>
-        <td>TBA</td>
+        <td>12:00 - 12:20</td>
+        <td><b>Goutham Rajendran</b>: “Identifiability of Deep Generative Models”</td>
         <td>In-person</td>
     </tr>
-    <tr class="talk">
-        <td>11:50 - 12:30</td>
-        <td>TBA</td>
-        <td>In-person</td>
+    <tr class="panel">
+        <td>12:00 - 12:30</td>
+        <td>Discussion</td>
+        <td>-</td>
     </tr>
     <tr class="break">
-        <td>12:30 - 14:00</td>
+        <td>12:30 - 13:30</td>
         <td>Lunch break</td>
         <td>-</td>
     </tr>
     <tr class="talk">
-        <td>14:00 - 15:00</td>
-        <td>TBA</td>
+        <td>13:30 - 13:50</td>
+        <td><b>Atticus Geiger</b>: “Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations”</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
-        <td>15:00 - 16:00</td>
-        <td>TBA</td>
+        <td>13:50 - 14:10</td>
+        <td><b>Zhijing Jin</b>: TBA</td>
         <td>In-person</td>
     </tr>
+    <tr class="panel">
+        <td>14:10 - 14:30</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
     <tr class="break">
-        <td>16:00 - 16:30</td>
+        <td>14:30 - 15:00</td>
         <td>Coffee break</td>
         <td>-</td>
     </tr>
-    <tr class="poster">
-        <td>16:30 - 18:00</td>
-        <td>Poster Session</td>
+    <tr class="talk">
+        <td>15:00 - 15:20</td>
+        <td><b>Julius von Kügelgen</b>: TBA</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="talk">
+        <td>15:20 - 15:40</td>
+        <td><b>Francesco Montagna</b>: “Inference of Causal Graphs with Score Matching”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="panel">
+        <td>15:40 - 16:00</td>
+        <td>Discussion</td>
+        <td>-</td>
+    </tr>
+    <tr class="panel">
+        <td>16:00 - 17:00</td>
+        <td>Roundtable discussion & Closing remarks</td>
         <td>In-person</td>
     </tr>
 </table>
