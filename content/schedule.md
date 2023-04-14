@@ -54,7 +54,7 @@
     </tr>
     <tr class="talk">
         <td>11:40 - 12:00</td>
-        <td>Armin Kekić: TBA</td>
+        <td><b>Armin Kekić</b>: “Evaluating vaccine allocation strategies using simulation-assisted causal modelling”</td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
@@ -142,7 +142,7 @@
     </tr>
     <tr class="talk">
         <td>09:50 - 10:10</td>
-        <td><b>Siyuan Guo</b>: “Causal de Finetti”</td>
+        <td><b>Siyuan Guo</b>: “Moving beyond i.i.d: Causal de Finetti and OOV Generalization”</td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
@@ -270,7 +270,7 @@
     </tr>
     <tr class="talk">
         <td>13:50 - 14:10</td>
-        <td><b>Zhijing Jin</b>: TBA</td>
+        <td><b>Zhijing Jin</b>: "CausalNLP: Exploring Synergies between NLP and Causal Inference Communities"</td>
         <td>In-person</td>
     </tr>
     <tr class="panel">
