@@ -2,7 +2,7 @@
 
 
 
-## Monday, 17th April
+## Monday, 17th April ()
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
@@ -108,23 +108,14 @@
         <td>In-person</td>
     </tr>
     <tr class="break">
-        <td>19:45 - 20:00</td>
-        <td>Welcome remarks</td>
+        <td>18:00 - </td>
+        <td>Reception & Networking</td>
         <td>-</td>
     </tr>
-    <tr class="break">
-        <td>20:00 - 22:00</td>
-        <td>Dinner</td>
-        <td>-</td>
-    </tr>
-    <tr class="break">
-        <td>22:00 -</td>
-        <td>Closing remarks</td>
-        <td>-</td>
-    </tr>
+    
 </table>
 
-## Tuesday, 18th April
+## Tuesday, 18th April (Virtual: )
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
 </div>
@@ -157,12 +148,12 @@
     </tr>
     <tr class="talk">
         <td>11:00 - 11:20</td>
-        <td><b>Marco Fumero</b>: TBA</td>
+        <td><b>Marco Fumero</b>: "Leveraging Sparse and Shared Feature Activations for Disentangled Representation Learning"</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
         <td>11:20 - 11:40</td>
-        <td><b>Weiyang Liu</b>: TBA</td>
+        <td><b>Weiyang Liu</b>: "Can Causality Help 3D Reconstruction"</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
@@ -182,7 +173,7 @@
     </tr>
     <tr class="talk">
         <td>13:30 - 13:50</td>
-        <td><b>Simon Buchholz</b>: TBA</td>
+        <td><b>Simon Buchholz</b>: "Causal Representation Learning in Restricted Function Classes"</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
@@ -226,13 +217,24 @@
         <td>In-person</td>
     </tr>
     <tr class="break">
-        <td>18:30 - </td>
-        <td>Reception & Networking</td>
+        <td>19:15 - 19:30</td>
+        <td>Welcome remarks</td>
         <td>-</td>
     </tr>
+    <tr class="break">
+        <td>19:30 - 22:00</td>
+        <td>Dinner (Restaurant Mauganeschtle Tübingen)</td>
+        <td>-</td>
+    </tr>
+    <tr class="break">
+        <td>22:00 -</td>
+        <td>Closing remarks</td>
+        <td>-</td>
+    </tr>
+    
 </table>
 
-## Wednesday, 19th April
+## Wednesday, 19th April (Virtual: )
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
 </div>
