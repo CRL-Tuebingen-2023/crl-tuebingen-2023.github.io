@@ -2,8 +2,11 @@
 
 
 
-## Monday, 17th April ()
+## Monday, 17th April
 
+<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
+Zoom: https://eu01web.zoom.us/j/65874521182?pwd=bDZUMFNIODM3NGREV3cxTW5CeGlPZz09
+</div> 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
     <span class="talk">Talk</span> · 
@@ -115,9 +118,10 @@
     
 </table>
 
-## Tuesday, 18th April (Virtual: )
+## Tuesday, 18th April 
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
+Zoom: https://eu01web.zoom.us/j/65147591967?pwd=WlVEYkJxbGdXbjJYRkI0ZGlYdXBHUT09
 </div>
 
 <table class="schedule">
@@ -234,9 +238,10 @@
     
 </table>
 
-## Wednesday, 19th April (Virtual: )
+## Wednesday, 19th April 
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
+Zoom: https://eu01web.zoom.us/j/66030899186?pwd=VGZVbUV2SU9FYVpGMHBDcnZENmM5dz09
 </div>
 
 <table class="schedule">
@@ -287,7 +292,7 @@
     </tr>
     <tr class="talk">
         <td>15:00 - 15:20</td>
-        <td><b>Julius von Kügelgen</b>: TBA</td>
+        <td><b>Julius von Kügelgen</b>: "Learning from Sparse Mechanism Shifts Across Environments"</td>
         <td>In-person</td>
     </tr>
     <tr class="talk">
