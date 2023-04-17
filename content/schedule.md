@@ -4,7 +4,6 @@
 
 ## Monday, 17th April
 
-<a href="https://eu01web.zoom.us/j/65874521182?pwd=bDZUMFNIODM3NGREV3cxTW5CeGlPZz09">
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
     <span class="talk">Talk</span> · 
