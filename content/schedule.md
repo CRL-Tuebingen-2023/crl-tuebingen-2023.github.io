@@ -11,9 +11,7 @@
     <span class="panel">Discussion</span>  ·
     <span class="break">Break</span>
 </div>
-<a href="https://eu01web.zoom.us/j/65874521182?pwd=bDZUMFNIODM3NGREV3cxTW5CeGlPZz09" style="font-size: large; margin-bottom: 18px; margin-top: 18px;">
-Zoom Link Day 1
-</a> 
+
 <table class="schedule">
     <tr>
         <th style="width:20%">Time</th>
@@ -120,9 +118,6 @@ Zoom Link Day 1
 
 ## Tuesday, 18th April 
 
-<a href="https://eu01web.zoom.us/j/65147591967?pwd=WlVEYkJxbGdXbjJYRkI0ZGlYdXBHUT09" style="font-size: large; margin-bottom: 18px; margin-top: 18px;">
-Zoom Link Day 2
-</a> 
 
 <table class="schedule">
     <tr>
@@ -239,10 +234,6 @@ Zoom Link Day 2
 </table>
 
 ## Wednesday, 19th April 
-
-<a href="https://eu01web.zoom.us/j/66030899186?pwd=VGZVbUV2SU9FYVpGMHBDcnZENmM5dz09" style="font-size: large; margin-bottom: 18px; margin-top: 18px;">
-Zoom Link Day 3
-</a> 
 
 <table class="schedule">
     <tr>
