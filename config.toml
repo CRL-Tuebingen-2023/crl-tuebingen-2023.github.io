@@ -43,3 +43,7 @@ disableKinds = ["taxonomyTerm"]
     name = "Location"
     url  = "/location"
     weight = 6
+[[menu.main]]
+    name = "Slides"
+    url  = "/slides"
+    weight = 7
