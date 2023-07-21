@@ -60,7 +60,7 @@ title: "Invited Speakers"
     </tr>
     <tr>
         <td>Sébastien Lachapelle</td>
-        <td>TBA</td>
+        <td>___</td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@ title: "Invited Speakers"
     </tr>
     <tr>
         <td>Luigi Gresele</td>
-        <td>TBA</td>
+        <td>Embrace the Gap: VAEs Perform Independent Mechanism Analysis</td>
     </tr>
     <tr>
         <td>Wojciech Niemiro</td>
@@ -116,7 +116,7 @@ title: "Invited Speakers"
     </tr>
     <tr>
         <td>Zhijing Jin, Yuen Chen, Luigi Gresele, Felix Leeb</td>
-        <td>TBA</td>
+        <td>CLadder: Assessing Causal Reasoning in Language Models</td>
     </tr>
     <tr>
         <td>Tristan Deleu</td>
