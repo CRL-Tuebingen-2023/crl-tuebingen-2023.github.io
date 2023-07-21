@@ -60,7 +60,7 @@ title: "Invited Speakers"
     </tr>
     <tr>
         <td>Sébastien Lachapelle</td>
-        <td>___</td>
+        <td>Synergies between Disentanglement and Sparsity: Generalization and Identifiability in Multi-Task Learning</td>
     </tr>
 </table>
 
