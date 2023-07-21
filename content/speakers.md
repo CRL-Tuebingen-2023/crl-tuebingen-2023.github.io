@@ -58,7 +58,3 @@ title: "Invited Speakers"
         <td><a href="https://siyuanguo.com">Siyuan Guo</a></td>
     </div>
 </div>
-
-<div style="width: 100%; font-size: larger; text-align: center; margin-top: 18px;">
-    <em>More speakers TBA.</em>
-</div>
